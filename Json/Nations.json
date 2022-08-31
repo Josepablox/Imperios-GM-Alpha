@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Imperio del Sol Naciente",
+        "leaderName": "Hirohito Matute",
+        "adjective": ["Japoneses"],
+                "outerColor": [220, 20, 60],
+        "innerColor": [240, 255, 255],
+
+        "startBias": ["coast"],
+            "preferredVictoryType": "Domination",
+        "favoredReligion": "Niggalismo",
+        
+        "startIntroPart1": "Buen Dia para empezar a hacer que el imperio del sol naciente sea el mas grande del mundo.",
+        "startIntroPart2": "Señor usted puede crear un imperio grande y honorifico.",
+
+        "introduction": "Soy Hirohito Matute, Emperador del Sol Naciente Te trataremos con respeto si tu haces lo mismo.",
+        "declaringWar": "Tu Territorio sera mio.",
+        "attacked": "Jajaja, Acaso crees que podras derrotarme?",
+        "afterPeace": "Peleaste Bien y con honor.",
+        "defeated": "...",
+
+        "neutralHello": "!!Buenos Dias!!",
+        "hateHello": "Me estas Saludando?",
+
+        "tradeRequest": "Yo se que quieres este tradeo",
+        "neutralLetsHearIt": "Si?, Dinos?",
+        "hateLetsHearIt": "Que quieres tu.",
+        "neutralNo": "No gracias",
+        "neutralYes": "Dale",
+        "hateNo": "Vete a la verga",
+        "hateYes": "Si, Solo por esta vez",
+
+        "uniqueName": "Honorificos hasta el final",
+        "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],"],
+
+        "cities": ["Kioto","Tokio","Hiroshima","Nagasaki","Osaka","Kōbe","Kitakyūshū","Sapporo","Kawasaki","Fukuoka","Yokohama","Nagoya","sendai","Chiba","Shizuoka"]
+    },
+]
