@@ -8,7 +8,7 @@
 
         "startBias": ["coast"],
             "preferredVictoryType": "Domination",
-        "favoredReligion": "Niggalismo",
+        "favoredReligion": "Christianity",
         
         "startIntroPart1": "Buen Dia, hagamos que el imperio del sol naciente sea el mas grande del mundo.",
         "startIntroPart2": "Señor usted puede crear un imperio grande y honorifico.",
@@ -44,7 +44,7 @@
 
         "startBias": ["Plains"],
             "preferredVictoryType": "Domination",
-        "favoredReligion": "Comepijistas",
+        "favoredReligion": "Christianity",
         
         "startIntroPart1": "Heil, Vamos a Ganar",
         "startIntroPart2": "Heil Zuntix",
