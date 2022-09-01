@@ -31,7 +31,7 @@
         "hateYes": "Si, Solo por esta vez",
 
         "uniqueName": "Honorificos hasta el final",
-        "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"]"],
+        "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
         "cities": ["Kioto","Tokio","Hiroshima","Nagasaki","Osaka","Kōbe","Kitakyūshū","Sapporo","Kawasaki","Fukuoka","Yokohama","Nagoya","sendai","Chiba","Shizuoka"]
     },
@@ -67,7 +67,7 @@
         "hateYes": "Solo por esta vez te tue",
 
         "uniqueName": "Alemania la mas grande",
-        "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"]"],
+        "uniques": ["[+2 Culture, +1 Gold, +1 Food] from every [Trading post]", "[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [35] HP>"],
 
         "cities": ["Berlin","Hamburgo","Múnich","Colonia","Fráncfort","	Stuttgart","Düsseldorf","Dortmund","Essen","Bremen","Dresde","Leipzig","Hanóver","Núremberg","Duisburgo"]
     },
